@@ -1,0 +1,149 @@
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\obj\Release\ResolveAssemblyReference.cache
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.Form1.resources
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.Properties.Resources.resources
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\bin\Release\Demo.exe.manifest
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\bin\Release\Demo.application
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\bin\Release\Demo.exe
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\bin\Release\Demo.pdb
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\bin\Release\RfidApiLib.dll
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.TrustInfo.xml
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.exe.manifest
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.application
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.exe
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.pdb
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.exe
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.pdb
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\bin\Release\Demo.exe.manifest
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\bin\Release\Demo.application
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\bin\Release\Demo.exe
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\bin\Release\Demo.pdb
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\bin\Release\RfidApiLib.dll
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\ResolveAssemblyReference.cache
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.Form1.resources
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.Properties.Resources.resources
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.TrustInfo.xml
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.exe.manifest
+d:\我的文档\LMJ H818资料\SR SDK\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.application
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\ResolveAssemblyReference.cache
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.Form1.resources
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.Properties.Resources.resources
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\bin\Release\Demo.exe.manifest
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\bin\Release\Demo.application
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\bin\Release\Demo.exe
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\bin\Release\Demo.pdb
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\bin\Release\RfidApiLib.dll
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.TrustInfo.xml
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.exe.manifest
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.application
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.exe
+E:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.pdb
+D:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.exe
+D:\SR Reader Project\C# API&DEMO\DEMO和API－增加PING功能\Demo\Demo\obj\Release\Demo.pdb
+C:\Documents and Settings\Administrator\My Documents\产品资料\一體機光盤資料\Sample\c#\Demo\obj\Release\Demo.exe
+C:\Documents and Settings\Administrator\My Documents\产品资料\一體機光盤資料\Sample\c#\Demo\obj\Release\Demo.pdb
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\obj\Release\Demo.exe
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\obj\Release\Demo.pdb
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\bin\Release\Demo.exe.manifest
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\bin\Release\Demo.application
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\bin\Release\Demo.exe
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\bin\Release\Demo.pdb
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\bin\Release\RfidApiLib.dll
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\obj\Release\Demo.csprojResolveAssemblyReference.cache
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\obj\Release\Demo.Form1.resources
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\obj\Release\Demo.Properties.Resources.resources
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\obj\Release\Demo.TrustInfo.xml
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\obj\Release\Demo.exe.manifest
+\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo\obj\Release\Demo.application
+F:\RFID资料\恺乐KL9005S读写器开发包\9005sC#64位开发包\C#源码\c#\Demo\obj\Release\Demo.exe
+F:\RFID资料\恺乐KL9005S读写器开发包\9005sC#64位开发包\C#源码\c#\Demo\obj\Release\Demo.pdb
+F:\c#\C#源码\c#\Demo\obj\Release\Demo.exe
+F:\c#\C#源码\c#\Demo\obj\Release\Demo.pdb
+F:\c#\C#源码\c#\Demo\bin\Release\Demo.exe.manifest
+F:\c#\C#源码\c#\Demo\bin\Release\Demo.application
+F:\c#\C#源码\c#\Demo\bin\Release\Demo.exe
+F:\c#\C#源码\c#\Demo\bin\Release\Demo.pdb
+F:\c#\C#源码\c#\Demo\bin\Release\RfidApiLib.dll
+F:\c#\C#源码\c#\Demo\obj\Release\Demo.csprojResolveAssemblyReference.cache
+F:\c#\C#源码\c#\Demo\obj\Release\Demo.Form1.resources
+F:\c#\C#源码\c#\Demo\obj\Release\Demo.Properties.Resources.resources
+F:\c#\C#源码\c#\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+F:\c#\C#源码\c#\Demo\obj\Release\Demo.TrustInfo.xml
+F:\c#\C#源码\c#\Demo\obj\Release\Demo.exe.manifest
+F:\c#\C#源码\c#\Demo\obj\Release\Demo.application
+F:\c#\c#源码-只可以读卡demo\c#\Demo\obj\Release\Demo.exe
+F:\c#\c#源码-只可以读卡demo\c#\Demo\obj\Release\Demo.pdb
+F:\c#\c#源码-只可以读卡demo\c#\Demo\bin\Release\Demo.exe.manifest
+F:\c#\c#源码-只可以读卡demo\c#\Demo\bin\Release\Demo.application
+F:\c#\c#源码-只可以读卡demo\c#\Demo\bin\Release\Demo.exe
+F:\c#\c#源码-只可以读卡demo\c#\Demo\bin\Release\Demo.pdb
+F:\c#\c#源码-只可以读卡demo\c#\Demo\bin\Release\RfidApiLib.dll
+F:\c#\c#源码-只可以读卡demo\c#\Demo\obj\Release\Demo.csprojResolveAssemblyReference.cache
+F:\c#\c#源码-只可以读卡demo\c#\Demo\obj\Release\Demo.Form1.resources
+F:\c#\c#源码-只可以读卡demo\c#\Demo\obj\Release\Demo.Properties.Resources.resources
+F:\c#\c#源码-只可以读卡demo\c#\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+F:\c#\c#源码-只可以读卡demo\c#\Demo\obj\Release\Demo.TrustInfo.xml
+F:\c#\c#源码-只可以读卡demo\c#\Demo\obj\Release\Demo.exe.manifest
+F:\c#\c#源码-只可以读卡demo\c#\Demo\obj\Release\Demo.application
+F:\c#\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.exe
+F:\c#\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.pdb
+F:\c#\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.exe.manifest
+F:\c#\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.application
+F:\c#\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.exe
+F:\c#\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.pdb
+F:\c#\c#源码-读卡+定时demo\c#\Demo\bin\Release\RfidApiLib.dll
+F:\c#\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.csprojResolveAssemblyReference.cache
+F:\c#\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.Form1.resources
+F:\c#\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.Properties.Resources.resources
+F:\c#\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+F:\c#\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.TrustInfo.xml
+F:\c#\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.exe.manifest
+F:\c#\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.application
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.exe.manifest
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.application
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.exe
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.pdb
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\RfidApiLib.dll
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.csprojResolveAssemblyReference.cache
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.Form1.resources
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.Properties.Resources.resources
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.csproj.CoreCompileInputs.cache
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.TrustInfo.xml
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.exe.manifest
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.application
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.exe
+H:\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.pdb
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.exe.manifest
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.application
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.exe
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.pdb
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\RfidApiLib.dll
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.Form1.resources
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.TrustInfo.xml
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.exe.manifest
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.application
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.exe
+C:\Users\lenovo\Desktop\薛新钰rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.pdb
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.exe.manifest
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.application
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.exe
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\Demo.pdb
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\bin\Release\RfidApiLib.dll
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.Form1.resources
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.TrustInfo.xml
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.exe.manifest
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.application
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.exe
+C:\Users\lenovo\Desktop\rfid\c#源码-读卡+定时demo\c#\Demo\obj\Release\Demo.pdb

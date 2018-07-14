@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Demo">
+</Property><Property Name="解决方案文件" Value="\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo.sln">
+</Property><Property Name="用户选项文件" Value="\\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Demo.suo">
+</Property><Property Name="Date" Value="2015年7月20日 星期一">
+</Property><Property Name="Time" Value="11:35">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Demo.sln" Description="文件已成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Demo.suo" Description="文件已成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo.suo">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Demo.csproj" Description="项目文件已成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo\Demo.csproj">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Demo.csproj.user" Description="项目用户文件成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo\Demo.csproj.user">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Form1.cs" Description="文件已成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Form1.Designer.cs" Description="文件已成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Program.cs" Description="文件已成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo\Program.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\AssemblyInfo.cs" Description="文件已成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\Resources.Designer.cs" Description="文件已成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\Settings.Designer.cs" Description="文件已成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\Settings.settings" Description="文件已成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Form1.resx" Description="文件已成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\Resources.resx" Description="文件已成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\app.manifest" Description="文件已成功备份为 \\Zsk-pc\恺乐读写器\恺乐读写器\一体机系列\9010S系列\9101系列读写器\C#源码\c#\Backup\Demo\Properties\app.manifest">
+</Event><Event ErrorLevel="1" Project="Demo" Source="Demo\Demo.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Demo.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Demo" Source="Demo\Demo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Demo.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Demo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Demo.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

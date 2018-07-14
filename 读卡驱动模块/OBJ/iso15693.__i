@@ -1,0 +1,1 @@
+-c --device DARMSTM -g -O0 --apcs=interwork -I..\USER -I..\CORE -I..\STM32_FWLIB\inc -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\OUTPUT -I..\HARDWARE\RFID -I "D:\Keil\ARM\INC\ST\STM32F10x" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o "..\OBJ\iso15693.o" --omf_browse "..\OBJ\iso15693.crf" --depend "..\OBJ\iso15693.d" "..\HARDWARE\RFID\ISO15693.c"
